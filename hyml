@@ -1,0 +1,67 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifolio</title>
+    <link rel="stylesheet" href="Projeto.css">
+
+</head>
+
+<body>
+    <header>
+
+    </header>
+    <h2>Olá Meu nome é Arthur Henrique Duarte Corlaitti sou um programador de front-end básico,tenho um pouco de habilidade com computadores sou muito bom em design automotivo e tenho um grande interesse em carros.</h2>
+    <img src="img/ouro.jpg" width="400px" height="200px">
+<main>
+    <section>
+        <h2>Sobre mim</h2>
+        <p>
+        <h3> Sou um estudante de ensino médio que frequenta a Proz faço curso de desenvolvimento de sistemas, possuo experiencias com carros além de ser muito interessado pela cultura automotiva</h3>
+        </p>
+    </section>
+    <section>
+        <h2>Meus Destaques</h2>
+        <p>
+            <h3>Segundo minha familia e amigos sou um ótimo desenhista além disso sei o basico de python,banco de dados e front-end. Minhas softskills eu possuo uma alta paciência trabalho bem em equipe</h3> 
+        </p>
+    </section>
+    <section>
+        <h2>Meus Projetos</h2>
+        <p>
+            <h2>Descrição</h2>
+            <h3>O meu primeiro projeto foi um site que falava sobre venda de carros nesse site havia as classes de carros como carros de luxo , SUVS e carros de passeio.Abaixo terá as imagens do site</h3>
+            <h2>Imagem1:</h2>
+            <img src="img/site2.jpg" width="400px" height="200px">
+            <h2>Imagem2:</h2>
+            <img src="img/site3.jpg" width="400px" height="200px">
+            <h2>Imagem3:</h2>
+            <img src="img/site1.jpg" width="400px" height="200px">
+        </p>
+        <br>
+        <p>
+            <h2>Descrição:</h2>
+            <h3>meu segundo projeto foi sobre um site de enfermagem que era sobre anotações de enfermagem nele tinha as informações sobre o que era anotações de enfermagem e tinha o vamos praticar que tinha um bloco de notas feito para fazer as anotações.Não consegui achar as imagens </h3>
+        </p>
+    </section>
+</main>
+<br>
+<h2>Contatos:</h2>
+<form id="Formulario" class="box">
+Nome:<input type="text" id="nome" reqired>
+<br>
+<br>
+E-mail:<input type="email" id="email" required>
+<br>
+<br>
+Mensagem:<input type="text" id="text">
+</form>
+
+</body>
+<footer>
+    <nav>
+        <a class="nav-button" href="contatos.html">Contatos</a>
+    </nav>
+</footer>
+</html>
